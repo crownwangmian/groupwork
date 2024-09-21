@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -12,6 +14,10 @@ public class Main {
 
     public static void add(){
         System.out.println("lägger till method");
+    }
+
+    public static void add2(){
+        System.out.println("addd2");
     }
 
 }
