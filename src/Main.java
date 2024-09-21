@@ -4,6 +4,14 @@ public class Main {
         System.out.println("we are here");
         System.out.println("mian");
         System.out.println("fjksdjiflkisdjf");
+        System.out.println("jdjdjdjdjjdjd");
+        System.out.println("kjsda");
+        System.out.println("mian check out again");
+        System.out.println("123123123321231");
+    }
+
+    public static void add(){
+        System.out.println("lägger till method");
     }
 
 }
